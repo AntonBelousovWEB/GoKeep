@@ -1,4 +1,4 @@
-![GoKeep Logo](resources/logo.png)
+<img src="resources/24000.png" alt="GoKeep Logo" width="150"/>
 # GoKeep - Encrypt Your Data within Image Source Code
 
 ## Overview
