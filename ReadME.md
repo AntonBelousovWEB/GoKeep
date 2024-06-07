@@ -1,5 +1,5 @@
 <img src="resources/24000.png" alt="GoKeep Logo" width="150"/>
-# GoKeep - Encrypt Your Data within Image Source Code
+GoKeep - Encrypt Your Data within Image Source Code
 
 ## Overview
 GoKeep is a tool that allows you to securely embed your data within the source code of any image file. This project provides an easy-to-use interface for encrypting your messages into images, making them both inconspicuous and accessible.
